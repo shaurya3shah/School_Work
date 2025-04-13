@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that reads a number between 1,000 and 999,999 from the user,
 where the user enters a comma in the input. Then print the number without a

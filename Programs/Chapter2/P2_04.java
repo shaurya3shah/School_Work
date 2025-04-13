@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
  Write a program that prompts the user for two integers and then prints
  •    The sum

@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that reads two times in military format (0900, 1730) and prints the
 number of hours and minutes between the two times. Here is a sample run. User

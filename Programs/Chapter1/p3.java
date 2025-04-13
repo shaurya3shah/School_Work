@@ -1,3 +1,5 @@
+package Chapter1;
+
 /*Product of first ten intigers*/
 
 public class p3

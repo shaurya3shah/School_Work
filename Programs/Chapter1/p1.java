@@ -1,3 +1,5 @@
+package Chapter1;
+
 /*Write a program that prints a greeting of your choice */
 
 public class p1

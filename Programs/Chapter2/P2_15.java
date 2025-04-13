@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Printing a grid. Write a program that prints the following grid to play tic-tac-toe.
 +--+--+--+
@@ -17,5 +19,11 @@ and the bottom line once.
 public class P2_15 {
     public static void main(String[] args) {
 
+        String a="+--+--+--+\n|  |  |  |";
+        String b="+--+--+--+";
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(b);
     }
 }

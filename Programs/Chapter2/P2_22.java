@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 The following pseudocode describes how a bookstore computes the price of an
 order from the total price and the number of the books that were ordered.

@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that prints a ­Christmas tree:
    /\'

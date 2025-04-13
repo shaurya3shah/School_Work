@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that asks the user to input
 •    The number of gallons of gas in the tank

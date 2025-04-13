@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that reads a number between 1,000 and 999,999 from the user and
 prints it with a comma separating the thousands. Here is a sample dialog; the user

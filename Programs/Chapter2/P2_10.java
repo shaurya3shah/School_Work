@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that helps a person decide whether to buy a hybrid car. Your
 pro­gram’s inputs should be:

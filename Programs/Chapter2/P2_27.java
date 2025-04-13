@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 A video club wants to reward its best members with a discount based on the mem-
 ber’s number of movie rentals and the number of new members referred by the

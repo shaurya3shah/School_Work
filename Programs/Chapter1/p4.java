@@ -1,3 +1,5 @@
+package Chapter1;
+
 /*Find the balance*/
 
 public class p4

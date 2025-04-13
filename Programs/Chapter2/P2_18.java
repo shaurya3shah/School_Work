@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Writing large letters. A large letter H can be produced like this:
  *   *

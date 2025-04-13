@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 Write a program that reads a number and displays
 the square, cube, and fourth power. Use the Math.pow method

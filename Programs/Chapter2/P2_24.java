@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 The following pseudocode describes how to extract the dollars and cents from a
 price given as a floating-point value. For example, a price 2.95 yields values 2 and 95
@@ -11,6 +13,6 @@ import java.util.Scanner;
 
 public class P2_24 {
     public static void main(String[] args) {
-
+System.out.println("HI ETHAN, Go away!!!!");
     }
 }

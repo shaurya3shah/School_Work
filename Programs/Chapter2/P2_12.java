@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
 File names and extensions. Write a program that prompts the user for
 the drive letter ( C ), the path ( \Windows\System ), the file name ( Readme ),
