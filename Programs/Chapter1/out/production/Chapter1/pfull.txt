@@ -1,0 +1,321 @@
+Problem 1
+/*Write a program that prints a greeting of your choice */
+
+public class p1
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Namaste Shaurya");
+    }
+}Problem 2
+/*Sum of first ten intigers*/
+public class p2
+{
+    public static void main(String[] args)
+    {
+        System.out.println(1+2+3+4+5+6+7+8+9+10);
+    }
+}Problem 3
+/*Product of first ten intigers*/
+
+public class p3
+{
+    public static void main(String[] args)
+    {
+        System.out.println(1*2*3*4*5*6*7*8*9*10);
+    }
+}Problem 4
+/*Find the balance*/
+
+public class p4
+{
+    public static void main(String[] args)
+    {
+        int bank_Account=1000;
+        double interest_per=0.05;
+        double balance= bank_Account + (bank_Account*interest_per);
+
+        System.out.println("balance in first year " + balance);
+        balance= balance + (balance*interest_per);
+        System.out.println("balance in second year " + balance);
+        balance= balance + (balance*interest_per);
+        System.out.println("balance in third year " + balance);
+        
+
+    }
+}Problem 5
+/*Name in box*/
+
+public class p5
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println(" ________ ");
+        System.out.println("|Shaurya|");
+        System.out.println( "--------- ");
+       
+        
+
+    }
+}Problem 6
+/*initials in stars*/
+
+public class p6
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("  ***  **** ");
+        System.out.println(" *    *");
+        System.out.println(" *    *");
+        System.out.println( "  ***   ***  ");
+        System.out.println("     *     *");
+        System.out.println("     *     *");
+        System.out.println( " ***   ***  ");
+       
+        
+
+    }
+}Problem 7
+/*face*/
+
+public class p7
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("////////////////");
+        System.out.println("_--------------_");
+        System.out.println("|   >      O   |");
+        System.out.println( "|      ^       |");
+        System.out.println("|              |");
+        System.out.println("|    @#$%&     |");
+        System.out.println("\\              /");
+        System.out.println( "_____     _____");
+        System.out.println( "     |   |     ");
+       
+        
+
+    }
+}Problem 8
+/*Piet Mondrian*/
+
+public class p8
+{
+    public static void main(String[] args)
+    {
+
+       
+        
+        System.out.println(" ---------------");
+        System.out.println("|@@@@@@@@@@@@@@@|");
+        System.out.println("|@@@@|::|@@@@@@@|");
+        System.out.println("|@@@@|::|@@@@@@@|");
+        System.out.println("|@@@@|::| |&&&&&|");
+        System.out.println("|@@@@|::| |&&&&&|");
+        System.out.println("|@@@@@@@@@@@@@@@|");
+        System.out.println("|@@@@@@@@@@@@@@@|");
+        System.out.println("|@@@||%%%%%%%%%%|");
+        System.out.println("|@@@@@@@@@@@@@@@|");
+        System.out.println(" ---------------");
+        
+       
+        
+
+    }
+}Problem 9
+/*Piet Mondrian*/
+
+public class p9
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("   +  ");
+        System.out.println("  + + ");
+        System.out.println(" +   + ");
+        System.out.println("+-----+");
+        System.out.println("| .-. |");
+        System.out.println("| | | |");
+        System.out.println("+-+-+-+");
+ 
+        
+       
+        
+
+    }
+}Problem 10
+/*Animal saying Namaste*/
+
+public class p10
+{
+    public static void main(String[] args)
+    {
+        System.out.println("    /\\_/\\     ");
+        System.out.println("   ( o.o )    ");
+        System.out.println("    > ^ <     ");
+        System.out.println("   /     \\    ");
+        System.out.println("  |       |   ");
+        System.out.println("  |  \\ /  |   ");
+        System.out.println("  |  |||  |   ");
+        System.out.println("  |  |||  |  Namaste!");
+        System.out.println("  |       |   ");
+        System.out.println("   -------    ");
+    }
+}
+
+ 
+        
+       
+        
+
+Problem 11
+/*Print three seperate lines */
+
+public class p11
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("Orange");
+        System.out.println("Apple");
+        System.out.println("Banana");
+
+    }
+}
+
+ 
+        
+       
+        
+
+Problem 12
+/*Poem */
+
+public class p12
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("The blank pages wait,");
+        System.out.println("A canvas white,");
+        System.out.println("With every stroke,");
+        System.out.println("A world unfolds.");
+
+    }
+}
+
+ 
+        
+       
+        
+
+Problem 13
+/*US FLAG*/
+
+public class p13
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("*********========");
+        System.out.println("*********========");
+        System.out.println("*********========");
+        System.out.println("=================");
+        System.out.println("=================");
+        System.out.println("=================");
+    }
+}
+
+ 
+        
+       
+        
+
+Problem 14
+/*modify*/
+
+import javax.swing.JOptionPane;
+
+public class p14
+{
+    public static void main(String[] args)
+    {
+
+     JOptionPane.showMessageDialog(null,"Hello SHAURYA!!!!!!");
+}
+}
+
+ 
+        
+       
+        
+
+Problem 15
+/*modify*/
+
+import javax.swing.JOptionPane;
+
+public class p15
+{
+    public static void main(String[] args)
+    {
+
+     String ans=JOptionPane.showInputDialog("what is your name");
+     System.out.println("Hello "+ans);
+
+}
+}
+
+ 
+        
+       
+        
+
+Problem 16
+/*modify*/
+
+import javax.swing.JOptionPane;
+
+public class p16
+{
+    public static void main(String[] args)
+    {
+
+     String ans=JOptionPane.showInputDialog("what is your name");
+     JOptionPane.showInputDialog("Hello "+ans+" What would you like me  to do for you");
+     JOptionPane.showMessageDialog(null,"Oh my god "+ans+" I am not your slave!");
+
+}
+}
+
+ 
+        
+       
+        
+
+Problem 17
+/*modify*/
+
+import java.net.URL;
+import javax. swing. ImageIcon;
+ import javax. swing. JOptionPane;
+public class p17
+{
+    public static void main(String[] args) throws Exception
+    {
+        URL imageLocation = new URL("https://www.bigfootdigital.co.uk/wp-content/uploads/2020/07/image-optimisation-scaled.jpg");
+        JOptionPane.showMessageDialog(null, "Hello", "Title", JOptionPane.PLAIN_MESSAGE, new ImageIcon(imageLocation)) ;
+}
+
+}
+
+
+
+
+ 
+        
+       
+        
+
