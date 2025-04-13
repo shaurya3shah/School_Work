@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*Sum of first ten intigers*/
 public class p2
 {

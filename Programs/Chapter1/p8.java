@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*Piet Mondrian*/
 
 public class p8

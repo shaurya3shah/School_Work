@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*initials in stars*/
 
 public class p6

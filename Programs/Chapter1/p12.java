@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*Poem */
 
 public class p12

@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*US FLAG*/
 
 public class p13

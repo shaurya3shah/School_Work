@@ -1,5 +1,3 @@
-package Chapter1;
-
 /*Animal saying Namaste*/
 
 public class p10
